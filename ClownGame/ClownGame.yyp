@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"Fadeout_Sprite","path":"sprites/Fadeout_Sprite/Fadeout_Sprite.yy",},},
+    {"id":{"name":"Platmarker","path":"sprites/Platmarker/Platmarker.yy",},},
     {"id":{"name":"Temp_Level_Block_Sprite","path":"sprites/Temp_Level_Block_Sprite/Temp_Level_Block_Sprite.yy",},},
     {"id":{"name":"obj_boss_test","path":"objects/obj_boss_test/obj_boss_test.yy",},},
     {"id":{"name":"obj_nextroom","path":"objects/obj_nextroom/obj_nextroom.yy",},},
@@ -49,6 +50,8 @@
     {"id":{"name":"Temp_Timed_Platform_Sprite","path":"sprites/Temp_Timed_Platform_Sprite/Temp_Timed_Platform_Sprite.yy",},},
     {"id":{"name":"obj_invisplatform","path":"objects/obj_invisplatform/obj_invisplatform.yy",},},
     {"id":{"name":"obj_saw","path":"objects/obj_saw/obj_saw.yy",},},
+    {"id":{"name":"obj_movingplatform","path":"objects/obj_movingplatform/obj_movingplatform.yy",},},
+    {"id":{"name":"obj_platmarker","path":"objects/obj_platmarker/obj_platmarker.yy",},},
     {"id":{"name":"obj_timedplatform","path":"objects/obj_timedplatform/obj_timedplatform.yy",},},
     {"id":{"name":"Reverse_Level","path":"rooms/Reverse_Level/Reverse_Level.yy",},},
     {"id":{"name":"obj_vertsaw","path":"objects/obj_vertsaw/obj_vertsaw.yy",},},

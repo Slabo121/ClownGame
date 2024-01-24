@@ -13,11 +13,31 @@ vsp = vsp + grav;
 //Handles moving platforms
 
 //Handles Jump
-if (place_meeting(x,y+1,obj_wall))  && (keyJump)
+if ((place_meeting(x,y+1,obj_wall))  && (keyJump) || (place_meeting(x,y+1,obj_movingplatform) && (keyJump)))
 {
 	vsp = -25;
 		
 }
+
+//Handles moving platforms
+var movingPlatform = instance_place(x,y + max(1,vsp),obj_movingplatform);
+if (movingPlatform && bbox_bottom <= movingPlatform.bbox_top)
+{
+	if (vsp > 0)
+	{
+		while (!place_meeting(x,y + sign(vsp), obj_movingplatform))
+		{
+			y += sign(vsp);
+		}
+		
+		vsp = 0;
+	}
+	
+	x += movingPlatform.moveX;
+	y += movingPlatform.moveY;
+}
+
+
 //Handles collisions between walls and the player
 if (place_meeting(x+hsp,y,obj_wall))
 {

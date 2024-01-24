@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Fadeout_Sprite","order":8,"path":"sprites/Fadeout_Sprite/Fadeout_Sprite.yy",},
+    {"name":"Platmarker","order":10,"path":"sprites/Platmarker/Platmarker.yy",},
     {"name":"Temp_Level_Block_Sprite","order":1,"path":"sprites/Temp_Level_Block_Sprite/Temp_Level_Block_Sprite.yy",},
     {"name":"obj_boss_test","order":12,"path":"objects/obj_boss_test/obj_boss_test.yy",},
     {"name":"obj_nextroom","order":7,"path":"objects/obj_nextroom/obj_nextroom.yy",},
@@ -31,6 +32,8 @@
     {"name":"Temp_Timed_Platform_Sprite","order":3,"path":"sprites/Temp_Timed_Platform_Sprite/Temp_Timed_Platform_Sprite.yy",},
     {"name":"obj_invisplatform","order":6,"path":"objects/obj_invisplatform/obj_invisplatform.yy",},
     {"name":"obj_saw","order":3,"path":"objects/obj_saw/obj_saw.yy",},
+    {"name":"obj_movingplatform","order":13,"path":"objects/obj_movingplatform/obj_movingplatform.yy",},
+    {"name":"obj_platmarker","order":14,"path":"objects/obj_platmarker/obj_platmarker.yy",},
     {"name":"obj_timedplatform","order":5,"path":"objects/obj_timedplatform/obj_timedplatform.yy",},
     {"name":"Reverse_Level","order":2,"path":"rooms/Reverse_Level/Reverse_Level.yy",},
     {"name":"obj_vertsaw","order":9,"path":"objects/obj_vertsaw/obj_vertsaw.yy",},
