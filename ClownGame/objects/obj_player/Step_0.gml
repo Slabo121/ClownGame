@@ -13,19 +13,19 @@ vsp = vsp + grav;
 //Handles moving platforms
 
 //Handles Jump
-if ((place_meeting(x,y+1,obj_wall))  && (keyJump) || (place_meeting(x,y+1,obj_movingplatform) && (keyJump)))
+if ((place_meeting(x,y+1,obj_wall))  && (keyJump) || (place_meeting(x,y+1,obj_platform) && (keyJump)))
 {
 	vsp = -25;
 		
 }
 
-//Handles moving platforms
-var movingPlatform = instance_place(x,y + max(1,vsp),obj_movingplatform);
-if (movingPlatform && bbox_bottom - 1 <= movingPlatform.bbox_top)
+//Handles platforms
+var Platform = instance_place(x,y + max(1,vsp),obj_platform);
+if (Platform && bbox_bottom - 1 <= Platform.bbox_top)
 {
 	if (vsp >= 0)
 	{
-		while (!place_meeting(x,y + sign(vsp), obj_movingplatform))
+		while (!place_meeting(x,y + sign(vsp), obj_platform))
 		{
 			y += sign(vsp);
 		}
@@ -33,8 +33,8 @@ if (movingPlatform && bbox_bottom - 1 <= movingPlatform.bbox_top)
 		vsp = 0;
 	}
 	
-	x += movingPlatform.moveX;
-	y += movingPlatform.moveY;
+	x += Platform.moveX;
+	y += Platform.moveY;
 }
 
 

@@ -39,10 +39,12 @@
     {"name":"obj_vertsaw","order":9,"path":"objects/obj_vertsaw/obj_vertsaw.yy",},
     {"name":"Temp_Checkpoint_Sprite","order":7,"path":"sprites/Temp_Checkpoint_Sprite/Temp_Checkpoint_Sprite.yy",},
     {"name":"obj_fadeout","order":11,"path":"objects/obj_fadeout/obj_fadeout.yy",},
+    {"name":"Temp_Platwall_Sprite","order":11,"path":"sprites/Temp_Platwall_Sprite/Temp_Platwall_Sprite.yy",},
     {"name":"Temp_Wall_Sprite","order":5,"path":"sprites/Temp_Wall_Sprite/Temp_Wall_Sprite.yy",},
     {"name":"Temp_Boss_Sprite","order":9,"path":"sprites/Temp_Boss_Sprite/Temp_Boss_Sprite.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"Temp_Invis_Platform_Sprite","order":4,"path":"sprites/Temp_Invis_Platform_Sprite/Temp_Invis_Platform_Sprite.yy",},
     {"name":"Temp_Level_End_Sprite","order":6,"path":"sprites/Temp_Level_End_Sprite/Temp_Level_End_Sprite.yy",},
+    {"name":"obj_platwall","order":15,"path":"objects/obj_platwall/obj_platwall.yy",},
   ],
 }
