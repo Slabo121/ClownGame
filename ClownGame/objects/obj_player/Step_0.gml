@@ -21,9 +21,9 @@ if ((place_meeting(x,y+1,obj_wall))  && (keyJump) || (place_meeting(x,y+1,obj_mo
 
 //Handles moving platforms
 var movingPlatform = instance_place(x,y + max(1,vsp),obj_movingplatform);
-if (movingPlatform && bbox_bottom <= movingPlatform.bbox_top)
+if (movingPlatform && bbox_bottom - 1 <= movingPlatform.bbox_top)
 {
-	if (vsp > 0)
+	if (vsp >= 0)
 	{
 		while (!place_meeting(x,y + sign(vsp), obj_movingplatform))
 		{
