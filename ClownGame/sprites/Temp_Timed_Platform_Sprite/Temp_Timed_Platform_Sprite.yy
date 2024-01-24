@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Temp_Timed_Platform_Sprite",
-  "bbox_bottom": 63,
+  "bbox_bottom": 27,
   "bbox_left": 0,
   "bbox_right": 63,
   "bbox_top": 0,
