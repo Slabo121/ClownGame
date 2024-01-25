@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Temp_Level_Block_Sprite",
-    "path": "sprites/Temp_Level_Block_Sprite/Temp_Level_Block_Sprite.yy",
+    "name": "PlatformSquare",
+    "path": "sprites/PlatformSquare/PlatformSquare.yy",
   },
   "spriteMaskId": null,
   "visible": true,

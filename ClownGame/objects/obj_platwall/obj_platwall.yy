@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Temp_Platwall_Sprite",
-    "path": "sprites/Temp_Platwall_Sprite/Temp_Platwall_Sprite.yy",
+    "name": "PlatformSquareWalls",
+    "path": "sprites/PlatformSquareWalls/PlatformSquareWalls.yy",
   },
   "spriteMaskId": null,
   "visible": true,
