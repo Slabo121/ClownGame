@@ -1,0 +1,1 @@
+audio_play_sound(ClownLaugh,500,true)

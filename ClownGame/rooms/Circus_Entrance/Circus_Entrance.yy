@@ -16,6 +16,7 @@
     {"name":"inst_2E86F7EA_1_1_1","path":"rooms/Circus_Entrance/Circus_Entrance.yy",},
     {"name":"inst_2E1484DB","path":"rooms/Circus_Entrance/Circus_Entrance.yy",},
     {"name":"inst_555FB58","path":"rooms/Circus_Entrance/Circus_Entrance.yy",},
+    {"name":"inst_3E4BEB08","path":"rooms/Circus_Entrance/Circus_Entrance.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -34,6 +35,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4C51E07C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_nextroom","path":"objects/obj_nextroom/obj_nextroom.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":4.5,"x":3936.0,"y":736.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2E1484DB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_inviswall","path":"objects/obj_inviswall/obj_inviswall.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":15.0,"x":1856.0,"y":64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_555FB58","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_inviswall","path":"objects/obj_inviswall/obj_inviswall.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":15.0,"x":4128.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3E4BEB08","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_soundcreator","path":"objects/obj_soundcreator/obj_soundcreator.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2720.0,"y":480.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_Aft","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_752600AD","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":26.0,"scaleY":22.0,"spriteId":{"name":"CircusTent","path":"sprites/CircusTent/CircusTent.yy",},"x":3328.0,"y":384.0,},
