@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Temp_Timed_Platform_Sprite",
-    "path": "sprites/Temp_Timed_Platform_Sprite/Temp_Timed_Platform_Sprite.yy",
+    "name": "TempPlatformUp",
+    "path": "sprites/TempPlatformUp/TempPlatformUp.yy",
   },
   "spriteMaskId": null,
   "visible": true,

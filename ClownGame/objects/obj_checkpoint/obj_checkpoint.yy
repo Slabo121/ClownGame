@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Temp_Checkpoint_Sprite",
-    "path": "sprites/Temp_Checkpoint_Sprite/Temp_Checkpoint_Sprite.yy",
+    "name": "Checkpoint_Sprite",
+    "path": "sprites/Checkpoint_Sprite/Checkpoint_Sprite.yy",
   },
   "spriteMaskId": null,
   "visible": true,

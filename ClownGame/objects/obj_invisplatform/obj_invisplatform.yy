@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Temp_Invis_Platform_Sprite",
-    "path": "sprites/Temp_Invis_Platform_Sprite/Temp_Invis_Platform_Sprite.yy",
+    "name": "TempPlatformDown",
+    "path": "sprites/TempPlatformDown/TempPlatformDown.yy",
   },
   "spriteMaskId": null,
   "visible": true,
