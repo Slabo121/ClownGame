@@ -1,0 +1,1 @@
+instance_create_layer(global.checkpointx,global.checkpointx,"Instances",obj_bosscamper)
